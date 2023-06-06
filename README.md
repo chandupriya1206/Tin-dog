@@ -22,6 +22,7 @@ To run this website locally, follow these steps:
 - Clone this repository to your local machine using git clone https://github.com/chandupriya1206/Tin-dog.git.
 - Open the project folder in your preferred code editor.
 - Open the index.html file in your web browser to view the website.
+- or click this link https://chandupriya1206.github.io/Tin-dog/
 
 # Technologies Used
 - HTML 5
